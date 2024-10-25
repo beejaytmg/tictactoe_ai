@@ -1,6 +1,6 @@
 # Tic Tac Toe AI
 
-A simple Tic Tac Toe game with an AI opponent built using Python and Flask. This project includes training datasets, a training notebook, a trained model, and a working website for demonstration.
+A simple Tic Tac Toe game with an AI opponent built using Python and tensorflow kears library. This project includes training datasets, a training notebook, a trained model, and a working website for demonstration.
 
 ## Demo
 
