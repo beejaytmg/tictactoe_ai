@@ -4,7 +4,7 @@ A simple Tic Tac Toe game with an AI opponent built using Python and Flask. This
 
 ## Demo
 
-You can try the live demo of the Tic Tac Toe AI [here]([https://yourwebsite.com](https://bijayakumartamang.com.np/tic-tac-toe)).
+You can try the live demo of the Tic Tac Toe AI [here]([https://yourwebsite.com](https://bijayakumartamang.com.np/tic-tac-toe).
 
 ## Features
 
