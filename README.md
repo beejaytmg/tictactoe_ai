@@ -16,14 +16,8 @@ You can try the live demo of the Tic Tac Toe AI [here](https://bijayakumartamang
 
 ### Summary of Changes
 
-- **Model Accuracy Section:** 
-- **Model Link Section:** Included a link to your model on Hugging Face.
+- **Model Accuracy :** 
+Epoch 308/600
+71/71 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.9601 - loss: 0.1117
+- **Model Link in hugging face:** : [here](https://huggingface.co/beejaytmg/ai_tic_tac_toe)
 
-### Final Steps
-
-- **Update the Demo Link:** Replace `https://yourwebsite.com` with the actual URL of your deployed website.
-- **Commit and Push Changes:**
-   ```bash
-   git add README.md
-   git commit -m "Update README with model accuracy and Hugging Face link"
-   git push
