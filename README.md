@@ -1,4 +1,4 @@
-# Tic Tac Toe AI
+# Tic Tac Toe AI x/o/x
 
 A simple Tic Tac Toe game with an AI opponent built using Python and tensorflow kears library. This project includes training datasets, a training notebook, a trained model, and a working website for demonstration.
 
