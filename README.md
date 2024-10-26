@@ -12,7 +12,7 @@ You can try the live demo of the Tic Tac Toe AI [here](https://bijayakumartamang
 - Intuitive web interface.
 - Includes training data and model files for further development.
 
-
+❤️❤️❤️❤️
 
 ### Summary of Changes
 
