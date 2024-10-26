@@ -17,7 +17,8 @@ You can try the live demo of the Tic Tac Toe AI [here](https://bijayakumartamang
 ### Summary of Changes
 
 - **Model Accuracy :** 
-Epoch 308/600
-71/71 ━━━━━━━━━━━━━━━━━━━━ 0s 2ms/step - accuracy: 0.9601 - loss: 0.1117
+Epoch 378/600
+71/71 ━━━━━━━━━━━━━━━━━━━━ 0s 3ms/step - accuracy: 0.9831 - loss: 0.0669
+<keras.src.callbacks.history.History at 0x7b9b0f0ec640>
 - **Model Link in hugging face:** : [here](https://huggingface.co/beejaytmg/ai_tic_tac_toe)
 
